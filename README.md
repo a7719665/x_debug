@@ -1,0 +1,3 @@
+# x_debug
+移动网页截取console及报错信息
+使用x_debug在移动端页面捕获异常
